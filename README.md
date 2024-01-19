@@ -14,6 +14,8 @@
   * [Caja](#caja)
     
 2. [Armado](#armado)
+3. [Actualizacion de la bios](#BIOS)
+4. [SO](#so)
 
 ---
 
@@ -101,4 +103,16 @@
 * **Paso30:** Conecta la grafica a la tarjeta madre, quitando los seguros del socket, alineas la grafica y presiona hazta escuchar un click.
 * **Paso31:** vuelve a colocar las pestañas que quitaste anteriormente para asegurar la tarjeta grafica.
 * **Paso32:** Conecta el cable [PCI-E](https://www.bing.com/images/search?view=detailv2&form=SBIHVR&darkschemeovr=1&iss=sbi&q=imgurl:https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Faplus-media-library-service-media%2F90dbc5f4-ef44-429c-9b3f-780d89b4efbe.__CR0%2C0%2C2000%2C2000_PT0_SX300_V1___.jpg&pageurl=https%3A%2F%2Fwww.amazon.es%2FMSI-MAG-A550BN-alimentaci%25C3%25B3n-DC%2Fdp%2FB0991W1HKT%2Fref%3Dsr_1_1_sspa%3F__mk_es_ES%3D%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591%26crid%3D1BXO3IAV5IGG3%26dib%3DeyJ2IjoiMSJ9.W16Ryu9z_d-IGal8tyjgf8jjd3ofsz3o4fRrfeqzPF0_HsJ0kEXZlYeFMG9zZYjgojSuSEijZriAnQEEw1VMrE5OSR6lFmuIJ3M2_L2QRl0Ohio8saotZVnT-yCeohjP_OUVXH5d3v_wNXGpyuBxxEqpwZ2ehol9FsPtyjn69DE7ZU07HCC2_OvhBjBrFOYASoC5TMiuH4W3k5ydbAZXul4FVb6lrNelcig-Io_vBtLoaT0z4fy7eQpy2kBVJDZhsVQcaBG0Gtij-Cif63nlpo9ILNKq2SZ6bOgErt6Kw60.vlUJFc24Pd7sIYemslwzyogJlFtzbjd-ppQmjmqWTvY%26dib_tag%3Dse%26keywords%3DMSI%252BMAG%252BA650BN%252B650W%252B80%252BPlus%252BBronze%26qid%3D1705608446%26sprefix%3Dmsi%252Bmag%252Ba650bn%252B650w%252B80%252Bplus%252Bbronze%252Caps%252C100%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1&pagetl=MSI+MAG+A550BN+-+Fuente+de+alimentaci%C3%B3n+gaming%3A+80+PLUS+BRONZE%2C+550+vatios%2C+12V+Single-Rail%2C+circuito+DC-to-DC%2C+ventilador+de+120mm+%3A+Amazon.es%3A+Inform%C3%A1tica&imgalt=msi-mag_a550bn-amazon_reseller_page-image_5&imgsz=300x301&selectedindex=0&id=https%3A%2F%2Fstorage-asset.msi.com%2Fglobal%2Fpicture%2Fimage%2Ffeature%2Fpower%2FReseller%2FMAG-A600DN%2F05.jpg&ccid=7shmvV09&mediaurl=https%3A%2F%2Fstorage-asset.msi.com%2Fglobal%2Fpicture%2Fimage%2Ffeature%2Fpower%2FReseller%2FMAG-A600DN%2F05.jpg&exph=2000&expw=2000&vt=2&simid=608054880251377548&ck=18EB275E48AB1A3A82645C54CEDFBFA6&thid=OIP.7shmvV09UvMm6Aulv69MxwHaHa&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.eec866bd5d3d52f326e80ba5bfaf4cc7%3Frik%3DUHgIS54fe7gH1A%26pid%3DImgRaw%26r%3D0&sim=11) debes ocupar todas las hembras de la grafica.
+
+## BIOS
+
+> Dirijete a la pagina oficial de la placa base, dirijete a la seccion de bios, y descarga la [ultima version](https://es.msi.com/Motherboard/MPG-B550-GAMING-PLUS/support#bios), descomprime el archivo, el contenido lo pegas en un pendrive formateado.
+> Por ultimo solo queda conectar dicho pendrive en el usb de flash bio de la pc ubicado en la tarjeta madre, y darle al boton Flash Bios Button para que se actualize la bios, sin necesidad de correr el procesador. Para seguir los pasos de fabricante, [aqui de dejo un video corto de como realizar la actualizacion](https://www.youtube.com/watch?v=LRyFMf0D9Lc)
+
+## SO
+
+> Te dejo un video muy bien explciado el paso a paso para instalar windows: [video](https://www.youtube.com/watch?v=Dzg38YOQw8c&t=929s)
+
+## SO
+
 

@@ -12,6 +12,7 @@
   * [Ram](#ram)
   * [Fuente de poder](#fuente)
   * [Caja](#caja)
+  * [SO](#so)
     
 2. [Armado](#armado)
 3. [Actualizacion de la bios](#BIOS)
@@ -53,7 +54,11 @@
 > [MSI MAG Forge 100M](https://www.amazon.es/MSI-MAG-FORGE-100M-Mid-Tower/dp/B07YQ724L8/ref=sr_1_1_sspa?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=DMB4XNEI8TAT&dib=eyJ2IjoiMSJ9.YNRxRffCULr1Gb__7PvC2M3cqspaEzSBX4p7hpoVC6Yj3FTSAuwVoegxnmpksEumj2xn33DCdCPAmUGYS9RTkrPPMToic6LFp9GxWz-mQOg0cQVm_iZYICZrr-BDAbfAPT7axDjKvBSX74CtXgq8aTy7toCvuiSvTNlkif5U2bEb-8Fsl-c4ajhJIqyUua39VzgyXx5RWiMRM93OtZv8BIqZ6ZsboZsLtSYKz8ocqaEmhcBWVQHwr15Ff4EI7sCyQ1DliNhSLQwNzd-rs8YfZNJxEnRRUgQM_2Y4hRtyNso.twV1orJ6kHF_mFN_Ereid62IOJ4IJoBnAreHk_MfVN8&dib_tag=se&keywords=MSI+MAG+Forge+100M&qid=1705611017&sprefix=msi+mag+forge+100m%2Caps%2C95&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 - 45€
 
-  # TOTAL PC: 934€
+## SO
+> aun no decido que so instalar, aprox 10€
+-10€
+
+  # TOTAL PC: 948€
 
 ---
 

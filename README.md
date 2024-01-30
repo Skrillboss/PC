@@ -111,8 +111,7 @@
 
 ## BIOS
 
-> Dirijete a la pagina oficial de la placa base, dirijete a la seccion de bios, y descarga la [ultima version](https://es.msi.com/Motherboard/MPG-B550-GAMING-PLUS/support#bios), descomprime el archivo, el contenido lo pegas en un pendrive formateado.
-> Por ultimo solo queda conectar dicho pendrive en el usb de flash bio de la pc ubicado en la tarjeta madre, y darle al boton Flash Bios Button para que se actualize la bios, sin necesidad de correr el procesador. Para seguir los pasos de fabricante, [aqui de dejo un video corto de como realizar la actualizacion](https://www.youtube.com/watch?v=LRyFMf0D9Lc)
+> La placa sin CPU ni RAM, conecta los pines de alimentacion de la tarjeta madre (siguiendo el paso 19 y 20), luego conectas el pendrive en el flash y presionas el boton del flash por 5seg, debes ver una luz parapadear, el momento en el que deje de parpadear, significa que ya esta actualizada [aqui de dejo un video corto de como realizar la actualizacion](https://www.youtube.com/watch?v=LRyFMf0D9Lc)
 
 ## SO
 
